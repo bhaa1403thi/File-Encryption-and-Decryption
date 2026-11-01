@@ -140,7 +140,13 @@ File-Encryption-and-Decryption/
 - [Project Report](docs/Project-Report.pdf)
 - [Project Presentation](docs/Project-Presentation.pptx)
 - [Project Abstract](docs/Abstract.pdf)
-- [Project Poster](assets/project-poster.png)
+
+# 🔐 File Encryption and Decryption
+
+![Project Poster](assets/project-poster.png)
+
+## Application Preview
+![Application Screenshot](assets/application-screenshot.png)
   
 ## 📜 License
 
