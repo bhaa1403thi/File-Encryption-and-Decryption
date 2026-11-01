@@ -135,6 +135,13 @@ File-Encryption-and-Decryption/
 - Enhanced user interface and file management.
 - Additional security and usability improvements.
 
+## 📚 Project Documentation
+
+- [Project Report](docs/Project-Report.pdf)
+- [Project Presentation](docs/Project-Presentation.pptx)
+- [Project Abstract](docs/Abstract.pdf)
+- [Project Poster](assets/project-poster.png)
+  
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
